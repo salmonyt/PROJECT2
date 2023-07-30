@@ -1,1 +1,8 @@
-# PROJECT2
+# Annual Sales Analysis for Vrinda Stores 2022
+* Conducted comprehensive data analysis on Vrinda Stores'
+  2022 annual sales using Excel and Power BI, resulting in
+  improved data accuracy and integrity,and revealed key sales
+  trends and insights.
+* Developed interactive Power BI dashboards, enabling
+  stakeholders to explore sales performance, make data-driven
+  decisions, and achieve a 12% increase in overall sales.
